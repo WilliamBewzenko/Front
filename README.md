@@ -23,7 +23,7 @@ Ao longo da nossas história já tivemos alguns tipos de aprendizados, como mon�
 
 **Contras**: Não consigo enxergar.
 
-Seguindo a ideia de múltiplos repositórios favor ver a estrutura de pastas:
+Seguindo a ideia de múltiplos repositórios favor ver a [estrutura de pastas](https://github.com/WilliamBewzenko/Front/tree/master/structure).
 
 
 <!-- #### Tecnologias
