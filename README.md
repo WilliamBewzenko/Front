@@ -25,7 +25,6 @@ Ao longo da nossas história já tivemos alguns tipos de aprendizados, como mon�
 
 Seguindo a ideia de múltiplos repositórios favor ver a [estrutura de pastas](https://github.com/WilliamBewzenko/Front/tree/master/structure).
 
-
 #### Tecnologias
 * [callemall/material-ui](https://github.com/callemall/material-ui/tree/v1-beta)
 * [facebook/react](https://github.com/facebook/react)
@@ -35,13 +34,12 @@ Seguindo a ideia de múltiplos repositórios favor ver a [estrutura de pastas](h
 * [reactjs/reselect](https://github.com/reactjs/reselect)
 * [ReactTraining/react-router](https://github.com/ReactTraining/react-router)
 
-
 #### Testes
 * [facebook/jest](https://github.com/facebook/jest)
 * [sinonjs/sinon](https://github.com/sinonjs/sinon)
 * [airbnb/enzyme](https://github.com/airbnb/enzyme)
-* [ctimmerm/axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter)
 * [adriantoine/enzyme-to-json](https://github.com/adriantoine/enzyme-to-json)
+* [ctimmerm/axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter)(opcional)
 
 #### Ferramentas
 * [webpack/webpack](https://github.com/webpack/webpack)
@@ -51,10 +49,9 @@ Seguindo a ideia de múltiplos repositórios favor ver a [estrutura de pastas](h
 
 #### Build
 
-<!-- #### Desenvolvimento
+#### Desenvolvimento
 
 #### Produção
-node: -->
 
 
 
